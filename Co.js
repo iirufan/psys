@@ -2,5 +2,5 @@
 const companyInfo = {
   name: "Koveli Lounge",
   address: "Velana International Airport",
-  phone: "+123 456 7890"
+  phone: "+960 304 6677"
 };
